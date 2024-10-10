@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammadAkabar
-- 👀 I’m WEB DEVELOPER | UI/UX 
+- 👀 I’m Software Engineer
 - 🌱 I’m currently learning Golang and Flutter
 - 💞️ I’m looking to collaborate on Open source project that build a website or mobile app
 
